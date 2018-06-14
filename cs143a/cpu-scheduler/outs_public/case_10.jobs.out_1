@@ -1,0 +1,10 @@
+Shortest Job First,,Non-preemptive
+"PID","Burst","Priority","Arrival","Start","Finish","Wait","Response","Turnaround"
+1001,300,0,0,0,299,0,0,300
+1002,200,1,90,400,599,310,310,510
+1003,100,2,90,300,399,210,210,310
+,,,,,,,,
+,,,,,Min,0,0,300
+,,,,,Mean,173.33,173.33,373.33
+,,,,,Max,310,310,510
+,,,,,StdDev,158.22,158.22,118.46

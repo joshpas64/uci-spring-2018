@@ -1,0 +1,10 @@
+Single-Queue Priority,,Preemptive
+"PID","Burst","Priority","Arrival","Start","Finish","Wait","Response","Turnaround"
+1001,100,2,0,0,299,200,0,300
+1002,100,1,10,10,209,100,0,200
+1003,100,0,20,20,119,0,0,100
+,,,,,,,,
+,,,,,Min,0,0,100
+,,,,,Mean,100.00,0.00,200.00
+,,,,,Max,100,0,200
+,,,,,StdDev,100.00,0.00,100.00
